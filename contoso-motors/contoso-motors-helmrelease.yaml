@@ -10,4 +10,4 @@ spec:
   releaseName: contoso-motors
   chart:
     spec:
-      chart: ./chart/contoro-motors
+      chart: ./chart/contoso-motors
